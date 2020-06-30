@@ -13,6 +13,23 @@ The works from "Designer's Guide to Creatiing Charts & Diagrams" by Nigel Holmes
     <td> <img src="https://ux-ui-design-lab.github.io/DH150-viz/images/assignment02/03.jpg" width="200px"> </td>
     <td> <img src="https://ux-ui-design-lab.github.io/DH150-viz/images/assignment02/04.jpg" width="200px"> </td>
     <td> <img src="https://ux-ui-design-lab.github.io/DH150-viz/images/assignment02/05.jpg" width="200px"> </td>
-   </td>
+   </tr>
+  
+  <tr>
+    <td> <img src="https://ux-ui-design-lab.github.io/DH150-viz/images/assignment02/06.jpg" width="200px"> </td>
+    <td> <img src="https://ux-ui-design-lab.github.io/DH150-viz/images/assignment02/07.jpg" width="200px"> </td>
+    <td> <img src="https://ux-ui-design-lab.github.io/DH150-viz/images/assignment02/08.jpg" width="200px"> </td>
+    <td> <img src="https://ux-ui-design-lab.github.io/DH150-viz/images/assignment02/09.jpg" width="200px"> </td>
+    <td> <img src="https://ux-ui-design-lab.github.io/DH150-viz/images/assignment02/10.jpg" width="200px"> </td>
+   </tr>
+   
+   <tr>
+    <td> <img src="https://ux-ui-design-lab.github.io/DH150-viz/images/assignment02/11.jpg" width="200px"> </td>
+    <td> <img src="https://ux-ui-design-lab.github.io/DH150-viz/images/assignment02/12.jpg" width="200px"> </td>
+    <td> <img src="https://ux-ui-design-lab.github.io/DH150-viz/images/assignment02/13.jpg" width="200px"> </td>
+    <td> <img src="https://ux-ui-design-lab.github.io/DH150-viz/images/assignment02/14.jpg" width="200px"> </td>
+    <td> <img src="https://ux-ui-design-lab.github.io/DH150-viz/images/assignment02/15.jpg" width="200px"> </td>
+   </tr>
+   
  </table>
  
