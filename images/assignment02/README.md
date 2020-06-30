@@ -2,7 +2,7 @@
 
 #### choose one work in the below and analyze any visual elements/attributes that might mislead people to see the data, then suggest possible way to improve.
 
-###### (this is a test how to present the charts) The works from "Designer's Guide to Creatiing Charts & Diagrams" by Nigel Holmes Ch. 5.
+###### The works from "Designer's Guide to Creatiing Charts & Diagrams" Ch. 5 by Nigel Holmes.
 
 <table>
   <tr>
