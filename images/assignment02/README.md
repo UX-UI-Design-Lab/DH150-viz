@@ -1,10 +1,8 @@
 ### This folder is for DH150-viz: assignment02
 
-##### choose one work in the below and analyze any visual elements/attributes that might mislead people to see the data, then suggest possible way to improve.
+#### choose one work in the below and analyze any visual elements/attributes that might mislead people to see the data, then suggest possible way to improve.
 
-(this is a test how to present the charts)
-
-The works from "Designer's Guide to Creatiing Charts & Diagrams" by Nigel Holmes Ch. 5.
+###### (this is a test how to present the charts) The works from "Designer's Guide to Creatiing Charts & Diagrams" by Nigel Holmes Ch. 5.
 
 <table>
   <tr>
