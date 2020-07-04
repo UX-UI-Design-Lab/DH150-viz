@@ -20,10 +20,15 @@ Upon completion of this course students will be able to:
 
 ## COURSE CALDENDAR (Example of 2020W)
 
-Week    |       Topics      |   LectureNote   |   Assignments 
+Week    |       Topics + LectureNotes   |   Assignment 
 --------|-------------------|--------------------------|------------------------
-1       | [Course overview](#) | [LectureNote01](https://github.com/UX-UI-Design-Lab/DH150-viz/wiki/week01.01) + [LectureNote02]| [A01: Visual Storytelling](https://docs.google.com/document/d/1-LcufxpyCVPtZ7eqD0z6Uarj8UMlaR-U_422zjgaOpo/edit?usp=sharing)
-2       | [Data Visualization](#)  | [LectureNote01](#) + [LectureNote02](https://github.com/UX-UI-Design-Lab/DH150-viz/wiki/week02-02) | [A02: Redrawn Simply](https://docs.google.com/document/d/1GgbQvQskE_gU8x4mAxVhobj0H-ri8j76jUk3WdWPugc/edit?usp=sharing)
+1       | [Course Overview](#)
+          [Visual Storytelling](https://github.com/UX-UI-Design-Lab/DH150-viz/wiki/week01.01)
+        | [A01: Visual Storytelling](https://docs.google.com/document/d/1-LcufxpyCVPtZ7eqD0z6Uarj8UMlaR-U_422zjgaOpo/edit?usp=sharing)
+2       | [Data Visualization](#)
+          [LectureNote01](#) + 
+          [LectureNote02](https://github.com/UX-UI-Design-Lab/DH150-viz/wiki/week02-02) 
+          | [A02: Redrawn Simply](https://docs.google.com/document/d/1GgbQvQskE_gU8x4mAxVhobj0H-ri8j76jUk3WdWPugc/edit?usp=sharing)
 3       | [Color](#)  | [LectureNote03](#3) | [A03: Collecting Colors](#)
 4       | [Typography](#) | [LectureNote04](#) | [A04: Invitations](#) 
 5       | [layout](#) | [LectureNote05](#) | [A05: Proportion](#)
