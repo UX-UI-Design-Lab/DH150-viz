@@ -17,7 +17,18 @@ Upon completion of this course students will be able to:
 - Evaluate the visualization and interface and leave a constructive criticism 
 
 ## COURSE CALENDAR
-[detailed schedule will be posted soon]
+
+## COURSE CALDENDAR (Example of 2020W)
+
+Week    |       Topics      |   LectureNote   |   Assignments 
+--------|-------------------|--------------------------|------------------------
+1       | [Course overview](#) | [LectureNote01](https://github.com/UX-UI-Design-Lab/DH150-viz/wiki/week01.01) + [LectureNote02]| [A01: Visual Storytelling](https://docs.google.com/document/d/1-LcufxpyCVPtZ7eqD0z6Uarj8UMlaR-U_422zjgaOpo/edit?usp=sharing)
+2       | [Data Visualization](#)  | [LectureNote01](#) + [LectureNote02](https://github.com/UX-UI-Design-Lab/DH150-viz/wiki/week02-02) | [A02: Redrawn Simply](https://docs.google.com/document/d/1GgbQvQskE_gU8x4mAxVhobj0H-ri8j76jUk3WdWPugc/edit?usp=sharing)
+3       | [Color](#)  | [LectureNote03](#3) | [A03: Collecting Colors](#)
+4       | [Typography](#) | [LectureNote04](#) | [A04: Invitations](#) 
+5       | [layout](#) | [LectureNote05](#) | [A05: Proportion](#)
+6       | [Movement](#)  | [LectureNote06](#) | [A06: Peer Review](#)
+
 
 ## Contact
 Sookie at g dot ucla dot edu
