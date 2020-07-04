@@ -18,7 +18,7 @@ Upon completion of this course students will be able to:
 
 ## COURSE CALENDAR
 
-## COURSE CALDENDAR (Example of 2020W)
+## COURSE CALDENDAR 
 
 Week    |       Topics + LectureNotes   |   Assignment 
 --------|----------------------------------------------|------------------------
