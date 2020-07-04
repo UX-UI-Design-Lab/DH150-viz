@@ -16,17 +16,15 @@ Upon completion of this course students will be able to:
 - Apply a proper visual metaphor and consistency in shapes 
 - Evaluate the visualization and interface and leave a constructive criticism 
 
-## COURSE CALENDAR
-
 ## COURSE CALDENDAR 
 
-Week    |       Topics + LectureNotes   |   Assignment 
+Week    |       Topics (Theory + Practice)   |   Assignment 
 --------|----------------------------------------------|------------------------
-1       | [Course Overview](#) + [Visual Storytelling](https://github.com/UX-UI-Design-Lab/DH150-viz/wiki/week01.01) | [A01: Visual Storytelling](https://docs.google.com/document/d/1-LcufxpyCVPtZ7eqD0z6Uarj8UMlaR-U_422zjgaOpo/edit?usp=sharing)
-2       | [Visaul Semiotics](#) + [Misinformation](#) | [A02: Redrawn Simply](https://docs.google.com/document/d/1GgbQvQskE_gU8x4mAxVhobj0H-ri8j76jUk3WdWPugc/edit?usp=sharing)
-3       | [Color Theory](#) + [Harmony](#3) | [A03: Collecting Colors](#)
+1       | [Course Overview](https://github.com/UX-UI-Design-Lab/DH150-viz/wiki/Week01.01:-Introduction) + [Visual Storytelling](https://github.com/UX-UI-Design-Lab/DH150-viz/wiki/Week01.02-Visual-storytelling) | [A01: Visual Storytelling](https://docs.google.com/document/d/1-LcufxpyCVPtZ7eqD0z6Uarj8UMlaR-U_422zjgaOpo/edit?usp=sharing)
+2       | [Gestalt + Visaul Semiotics](https://github.com/UX-UI-Design-Lab/DH150-viz/wiki/week02.01-Shapes-&-Visual-mapping) + [Visual Perception + Misinformation](https://github.com/UX-UI-Design-Lab/DH150-viz/wiki/Week02.02:-misinformation) | [A02: Redrawn Simply](https://docs.google.com/document/d/1GgbQvQskE_gU8x4mAxVhobj0H-ri8j76jUk3WdWPugc/edit?usp=sharing)
+3       | [Color Theory](#) + [Harmony](#) | [A03: Collecting Colors](#)
 4       | [Typography](#) + [Dynamics](#) | [A04: Invitations](#) 
-5       | [layout](#) + [Balance](#) | [A05: Proportion](#)
+5       | [Layout](#) + [Balance](#) | [A05: Proportion](#)
 6       | [Movement](#)  | [A06: Peer Review](#)
 
 
