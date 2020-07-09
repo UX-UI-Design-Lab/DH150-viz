@@ -22,7 +22,7 @@ Week    |       Topics (Theory + Practice)   |   Assignment
 --------|----------------------------------------------|------------------------
 1       | [Course Overview](https://github.com/UX-UI-Design-Lab/DH150-viz/wiki/Week01.01:-Introduction) + [Visual Storytelling](https://github.com/UX-UI-Design-Lab/DH150-viz/wiki/Week01.02-Visual-storytelling) | [A01: Visual Storytelling](https://docs.google.com/document/d/1-LcufxpyCVPtZ7eqD0z6Uarj8UMlaR-U_422zjgaOpo/edit?usp=sharing)
 2       | [Gestalt + Visaul Semiotics](https://github.com/UX-UI-Design-Lab/DH150-viz/wiki/week02.01-Shapes-&-Visual-mapping) + [Visual Perception + Misinformation](https://github.com/UX-UI-Design-Lab/DH150-viz/wiki/Week02.02:-misinformation) | [A02: Redrawn Simply](https://docs.google.com/document/d/1GgbQvQskE_gU8x4mAxVhobj0H-ri8j76jUk3WdWPugc/edit?usp=sharing)
-3       | [Color Theory](#) + [Harmony](#) | [A03: Collecting Colors](#)
+3       | [Color Theory](https://github.com/UX-UI-Design-Lab/DH150-viz/wiki/Week03.01-Color-theory) + [Color Practice](https://github.com/UX-UI-Design-Lab/DH150-viz/wiki/Week03.01-Color-theory) | [A03: Color Scheme](https://docs.google.com/document/d/1PL3SKfRJen2Xs_p1COx_3ze3LTzwY1Bo-f9orq9AmiA/edit?usp=sharing)
 4       | [Typography](#) + [Dynamics](#) | [A04: Invitations](#) 
 5       | [Layout](#) + [Balance](#) | [A05: Proportion](#)
 6       | [Movement](#)  | [A06: Peer Review](#)
