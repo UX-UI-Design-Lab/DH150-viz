@@ -25,7 +25,7 @@ Week    |       Topics (Theory + Practice)   |   Assignment
 3       | [Color Theory](https://github.com/UX-UI-Design-Lab/DH150-viz/wiki/Week03.01-Color-theory) + [Color Practice](https://github.com/UX-UI-Design-Lab/DH150-viz/wiki/Week03.01-Color-theory) | [A03: Color Scheme](https://docs.google.com/document/d/1PL3SKfRJen2Xs_p1COx_3ze3LTzwY1Bo-f9orq9AmiA/edit?usp=sharing)
 4       | [Typography](https://github.com/UX-UI-Design-Lab/DH150-viz/wiki/Week04.01-Typography) + [Typographic Influence](https://github.com/UX-UI-Design-Lab/DH150-viz/wiki/Week04.02-Typographic-Influence) | [A04: Invitations](https://docs.google.com/document/d/1DlwxLMpXqF7FBeubLLXO9_-FW-lQS4BfGr698GCngyA/edit?usp=sharing) 
 5       | [Layout](https://github.com/UX-UI-Design-Lab/DH150-viz/wiki/Week05.01-Layout) + [Grid](https://github.com/UX-UI-Design-Lab/DH150-viz/wiki/Week05.02-Grid) | [A05: Proportion](https://docs.google.com/document/d/1aeHA8on-fMMO9NpcYlVtWK_r3_g2fhdyHYvhsAmHuB4/edit?usp=sharing)
-6       | [Movement]() [animation](https://github.com/UX-UI-Design-Lab/DH150-viz/wiki/Week06.02-Animation--&-Course-conclusion)  | [A06: Peer Review](#)
+6       | [Movement](https://github.com/UX-UI-Design-Lab/DH150-viz/wiki/Week06.01-Movement) + [animation](https://github.com/UX-UI-Design-Lab/DH150-viz/wiki/Week06.02-Animation--&-Course-conclusion)  | [A06: Peer Review](#)
 
 
 ## Contact
